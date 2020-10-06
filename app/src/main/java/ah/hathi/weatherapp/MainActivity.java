@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView search;
     TextView tempText, descText, humidityText;
     EditText textField;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
